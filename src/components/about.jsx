@@ -1,5 +1,6 @@
 import React from "react";
-import { FaCode, FaPaintBrush, FaBolt, FaGlobe, FaDatabase, FaMobileAlt } from "react-icons/fa";
+import { FaCode, FaPaintBrush, FaBolt, FaGlobe, FaDatabase } from "react-icons/fa";
+import { FaMobileAlt } from "react-icons/fa";
 
 const skills = [
   {
